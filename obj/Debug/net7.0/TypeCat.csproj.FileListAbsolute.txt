@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\TypeCat\bin\Debug\net7.0\TypeCat.exe
+C:\Users\disrct\Desktop\TypeCat\bin\Debug\net7.0\TypeCat.deps.json
+C:\Users\disrct\Desktop\TypeCat\bin\Debug\net7.0\TypeCat.runtimeconfig.json
+C:\Users\disrct\Desktop\TypeCat\bin\Debug\net7.0\TypeCat.dll
+C:\Users\disrct\Desktop\TypeCat\bin\Debug\net7.0\TypeCat.pdb
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.AssemblyInfo.cs
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.dll
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\refint\TypeCat.dll
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.pdb
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\TypeCat.genruntimeconfig.cache
+C:\Users\disrct\Desktop\TypeCat\obj\Debug\net7.0\ref\TypeCat.dll
