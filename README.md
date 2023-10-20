@@ -5,6 +5,7 @@
 
 
 <ul>
+  <br>
   <p>TypeCat é uma linguagem compilada em C# e interpretada em JavaScript, segue abaixo, suas funções:
   <br></p>
   <li>Condicionais:</li>
