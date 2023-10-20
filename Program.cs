@@ -20,7 +20,6 @@ try
             commands.Add(3);
 
             var split = line.Split('(')[1].Split(')')[0];
-            Console.WriteLine(split);
 
             var splittedConditions = split.Split(' ');
 
@@ -40,12 +39,19 @@ try
             foreach(char c in cond)
                 commands.Add(Convert.ToInt32(c));
             
+            commands.Add(995);
+
+            line = sr.ReadLine();
+            var insideIf = line.Split("=>")[1].Replace(';', ' ');
+            foreach (char c in insideIf)
+            {
+                if(c != ' ')
+                {
+                    commands.Add(Convert.ToInt32(c));
+                }
+            }
+
             commands.Add(0);
-
-
-
-            Console.WriteLine(split);
-
         }
         if(line.Contains("vareow"))
         {
@@ -73,7 +79,6 @@ try
             commands.Add(1);
 
             var split = line.Split('(')[1].Split(')')[0];
-            Console.WriteLine(split);
             foreach(char c in split)
                 commands.Add(Convert.ToInt32(c));
 

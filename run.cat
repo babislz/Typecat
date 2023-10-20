@@ -1,4 +1,14 @@
-ifeow(1 > 2)
-{
+meow("Hello World");
+meow(2 + 3 + 5);
 
-}
+vareow b = 5;
+vareow a = 1;
+
+ifeow(1 < 2)
+    => meow(b);
+
+ifeow(2 > 1)
+    => meow(a);
+
+ifeow(20 < 18)
+    => meow("banana");

@@ -96,9 +96,7 @@ class Interpreter {
                     case 3:
                         var c1, c2, cond;
                         for (var j = i + 2; j < code.length; j++) {
-                            console.log(code[j]);
-
-                            if (parseInt(code[j]) == 0)
+                            if (parseInt(code[j]) == 995)
                                 break;
                             
                             if(j == i + 2)
@@ -123,7 +121,15 @@ class Interpreter {
                             (cond === '==') ? intC1 == intC2 :
                             (cond === '!=') ? intC1 != intC2 : false
                         
-                        console.log(ifResponse);
+                        if(ifResponse) {
+                            const text = "";
+                            for (var j = i + 2; j < code.length; j++) {
+                                text.concat(String.fromCharCode(code[j]))
+                            }
+                            console.log(text);
+                        }else
+                            return;
+
                         break;
                 }
             }
